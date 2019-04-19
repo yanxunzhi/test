@@ -1,2 +1,6 @@
-hellow  ANDyou &you
+<<<<<<< HEAD
+hellow  ANDyou &you1
 
+=======
+hellow  and you and you
+>>>>>>> new
